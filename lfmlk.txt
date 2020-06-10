@@ -7,7 +7,18 @@ sdkmksd
 =======
 mmkmk
 edkosadkoasdk
+<<<<<<< HEAD
 >>>>>>> 83e12389f49abe824430f918f7817d52b2afa22b
 hvhgvhgvhv
 mena
 tfyry
+=======
+sksokoopqkp
+kero
+ds
+dfsdf
+dedf
+qwq
+qwewqeqwfgdfg
+erferser
+>>>>>>> 07f38ee37bbef3408993706f048ab6d7f3b20863
